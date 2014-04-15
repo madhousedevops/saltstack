@@ -1,0 +1,5 @@
+/services/git:
+  file.directory:
+    - user: madhouse
+    - group: wheel
+    - mode: 755
